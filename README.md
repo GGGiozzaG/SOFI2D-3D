@@ -13,3 +13,9 @@ After running each a script, the following outputs are expected:
 - Source: File containing sources' locations and parameters
 - Receivers: File containing receivers' locations
 - JSON File: File containing all parameters
+
+If you are using SOFI2D or SOFI3D for research, please remember to cite the repository and the authors:
+
+Bohlen, T., "Parallel 3-D viscoelastic finite difference seismic
+modelling", 2002, Computers & Geosciences 28(8), pages 887-899. DOI:
+10.1016/S0098-3004(02)00006-7
